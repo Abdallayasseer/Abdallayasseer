@@ -78,3 +78,8 @@
         height="35" alt="gmail logo" />
     </a>
   </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdallayasseer/Abdallayasseer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abdallayasseer/Abdallayasseer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Abdallayasseer/Abdallayasseer/output/github-snake.svg" />
+</picture>
