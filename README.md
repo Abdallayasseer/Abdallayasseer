@@ -57,7 +57,7 @@
         src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge"  
         height="35" alt="github logo" />  
     </a>  
-    <a href="https://www.instagram.com/abdallah_yasser.091/">  
+    <a href="https://www.instagram.com/abdullahyasser091/">  
       <img  
         src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"  
         height="35" alt="instagram logo" />  
