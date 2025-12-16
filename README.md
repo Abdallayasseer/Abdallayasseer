@@ -119,10 +119,9 @@ I am a passionate **Full Stack Web Developer** with a strong focus on the **MERN
 
 <br />
 
-
-
 <div align="center">
-  <img src="https://github-profile-achievements.vercel.app/?username=Abdallayasseer&theme=dracula&include_all_commits=true&compact=false" alt="Achievements" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdallayasseer&theme=dracula&utcOffset=2" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdallayasseer&theme=dracula" height="170" />
 </div>
 <br />
 
