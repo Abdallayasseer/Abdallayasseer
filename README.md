@@ -109,18 +109,28 @@ I am a passionate **Full Stack Web Developer** with a strong focus on the **MERN
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdallayasseer&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="180" alt="stats graph" />
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallayasseer&layout=donut&theme=dracula&hide_border=true&langs_count=5&card_width=360" alt="languages graph" /></div>
+  <table>
+    <tr>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Abdallayasseer&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&rank_icon=github" height="180" alt="stats graph" />
+      </td>
+      <td valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallayasseer&layout=donut&theme=dracula&hide_border=true&langs_count=5&card_width=400" height="180" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdallayasseer&theme=dracula&utcOffset=2" height="170" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdallayasseer&theme=dracula" height="170" /><br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdallayasseer&theme=dracula&utcOffset=2" alt="productive time" />
+</div>
+
+<br />
 
 <div align="center">
   <picture>
