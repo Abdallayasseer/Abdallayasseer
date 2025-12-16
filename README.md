@@ -121,7 +121,7 @@ I am a passionate **Full Stack Web Developer** with a strong focus on the **MERN
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdallayasseer&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" alt="abdallayasseer" />
+    <img src="https://github-profile-trophy.vercel.app/?username=abdallayasseer&theme=flat&no-frame=true&margin-w=15" alt="abdallayasseer" />
   </a>
 </div>
 
