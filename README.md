@@ -110,7 +110,7 @@ I am a passionate **Full Stack Web Developer** with a strong focus on the **MERN
 ---
 
 <h3 align="left">📊 GitHub Stats</h3>
-  
+  <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallayasseer&layout=donut&theme=dracula&hide_border=true&langs_count=5" height="180" alt="languages graph" />
 </div>
 
