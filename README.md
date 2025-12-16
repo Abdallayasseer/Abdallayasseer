@@ -44,7 +44,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />  
   <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />  
-[![trophy](https://github-profile-trophy.vercel.app/?username=abdallayasseer)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=abdallayasseer&theme=onedark" alt="abdallayasseer" />
+  </a>
+</p>
  <div align="left">  
     <a href="https://www.linkedin.com/in/abdullah-yasser-787416295/">  
       <img  
