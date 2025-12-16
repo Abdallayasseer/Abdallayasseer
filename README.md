@@ -114,15 +114,13 @@ I am a passionate **Full Stack Web Developer** with a strong focus on the **MERN
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abdallayasseer&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallayasseer&layout=donut&theme=dracula&hide_border=true&langs_count=5" height="180" alt="languages graph" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallayasseer&layout=donut&theme=dracula&hide_border=true&langs_count=5&card_width=360" alt="languages graph" /></div>
 
 <br />
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdallayasseer&theme=dracula&utcOffset=2" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdallayasseer&layout=donut&theme=dracula&hide_border=true&langs_count=5&card_width=360" alt="languages graph" /></div>
-<br />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abdallayasseer&theme=dracula" height="170" /><br />
 
 <div align="center">
   <picture>
