@@ -15,7 +15,7 @@
     <a href="https://github.com/Abdallayasseer">
       <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <a href="https://www.instagram.com/abdullahyasser091/">
+    <a href="https://www.instagram.com/a_ys.1/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
     <a href="mailto:abdallayasser091@gmail.com">
