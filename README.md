@@ -26,16 +26,16 @@
 
 <hr />
 
-### 👨‍💻 About Me
+###  About Me
 I am a passionate **Full Stack Web Developer** with a strong focus on the **MERN Stack** and **PHP/Laravel**. I specialize in building dynamic, high-performance web applications. I enjoy solving real-world problems and continuously learning new technologies.
 
-- 🔭 I’m currently working on **Advanced React Patterns & Node.js Architecture**.
-- 🌍 I'm based in **Aswan, Egypt**.
-- 🤝 Open to collaborating on **Open Source Projects**.
+-  I’m currently working on **Advanced React Patterns & Node.js Architecture**.
+-  I'm based in **Aswan, Egypt**.
+-  Open to collaborating on **Open Source Projects**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 <div align="center">
 
